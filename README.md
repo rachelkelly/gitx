@@ -42,4 +42,8 @@
                 | | |     | | |
                 |_|_|     |_|_|
 
+
+** unicode MAY be better
+
+
 ⎈ unicode art is better
