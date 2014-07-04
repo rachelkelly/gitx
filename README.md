@@ -48,12 +48,8 @@
                 |_|_|     |_|_|
 
 
-
-
-
-
-
-
-
-
 ** unicode MAY be better
+
+This is a readme. We are practicing git. Conflicts will arise.
+
+⎈ unicode art is better
