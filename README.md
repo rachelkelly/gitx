@@ -1,1 +1,2 @@
-This is a readme. We are practicing git. Conflicts will arise.
+This is a readme. La La La  Conflicts will arise.
+Totally changing this README...
